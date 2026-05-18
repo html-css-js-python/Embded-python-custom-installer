@@ -1,4 +1,4 @@
-# Embded-python-custom-installer
+# Embed-python-custom-installer
 Embded python custom installer.
 
 Installation command:
